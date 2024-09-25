@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Debnath</h1>
 <h3 align="center">Transforming Code into Impactful Solutions, One Line at a Time.</h3>
 
-<img align="right" alt="" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fhacktiv8&psig=AOvVaw2nBZ5w5Y-5Mnoi6LyU539Q&ust=1727364419602000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNj-uYy03ogDFQAAAAAdAAAAABAR">
+<img align="right" alt="" width="400" src="https://github.com/PriyanshuDebnath0071/PriyanshuDebnath0071/blob/main/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshudebnath0071&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshudebnath0071" /> </p>
 
